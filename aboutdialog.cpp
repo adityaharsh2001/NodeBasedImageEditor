@@ -19,5 +19,5 @@ AboutDialog::~AboutDialog()
 void AboutDialog::on_pushButton_clicked()
 {
     //GitHub Repo button
-    QDesktopServices::openUrl(QUrl("https://github.com/abansal755/Image-Editor"));
+    QDesktopServices::openUrl(QUrl("https://github.com/adityaharsh2001/NodeBasedImageEditor.git"));
 }

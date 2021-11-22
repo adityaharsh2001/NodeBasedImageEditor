@@ -5,7 +5,7 @@
 This is a node-based compositing image editor which represents an entire composite as a directed unweighted graph, linking media objects and effects in a procedural map, intuitively laying out the progression from source input to final output. This type of compositing interface allows great flexibility, including the ability to modify parameters of an earlier image processing step while viewing the final composite.
 
 
-[![Report](https://drive.google.com/file/d/1fHUksRQJrsF-O1jVAyn6bL8wF14P6lcK/view?usp=sharing)
+[Report](https://drive.google.com/file/d/1fHUksRQJrsF-O1jVAyn6bL8wF14P6lcK/view?usp=sharing)
 # Tools Used
 - **Qt C++:** Qt is a free and open-source widget toolkit for creating graphical user interfaces as well as cross-platform applications that run on various software and hardware platforms such as Linux, Windows, macOS, Android or embedded systems with little or no change in the underlying codebase while still being a native application with native capabilities and speed.
 
